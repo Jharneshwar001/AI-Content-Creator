@@ -1,1 +1,2 @@
 # AI-Content-Creator
+The AI Content Creator utilizes two key agents: the Senior Research Analyst, who conducts thorough research and ensures content credibility, and the Content Writer, who crafts engaging blog posts tailored to the audience. Coupled with the SerperDevTool for real-time web searches, this combination enhances research quality, streamlines workflow, and ensures that content remains relevant and engaging, ultimately saving time and improving reader retention.
