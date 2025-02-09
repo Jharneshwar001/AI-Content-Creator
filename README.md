@@ -1,2 +1,2 @@
-# AI-Content-Creator
-The AI Content Creator utilizes two key agents: the Senior Research Analyst, who conducts thorough research and ensures content credibility, and the Content Writer, who crafts engaging blog posts tailored to the audience. Coupled with the SerperDevTool for real-time web searches, this combination enhances research quality, streamlines workflow, and ensures that content remains relevant and engaging, ultimately saving time and improving reader retention.
+# ContentCrew AI
+ContentCrew AI automates content creation using CrewAI and SerperDevTool, employing autonomous agents for web research, analysis, and engaging blog post generation. The tool leverages LLMs (like gpt-4) and allows users to customize agent roles and content focus. Streamlit (if used) provides an intuitive interface, ensuring accurate, properly cited output.
